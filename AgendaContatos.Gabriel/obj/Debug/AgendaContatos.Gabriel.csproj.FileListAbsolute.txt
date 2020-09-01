@@ -1,0 +1,10 @@
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\bin\Debug\AgendaContatos.Gabriel.exe.config
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\bin\Debug\AgendaContatos.Gabriel.exe
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\bin\Debug\AgendaContatos.Gabriel.pdb
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\obj\Debug\AgendaContatos.Gabriel.csprojAssemblyReference.cache
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\obj\Debug\AgendaContatos.Gabriel.frmAgendaContatos.resources
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\obj\Debug\AgendaContatos.Gabriel.Properties.Resources.resources
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\obj\Debug\AgendaContatos.Gabriel.csproj.GenerateResource.cache
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\obj\Debug\AgendaContatos.Gabriel.csproj.CoreCompileInputs.cache
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\obj\Debug\AgendaContatos.Gabriel.exe
+C:\Users\gab.silva\source\repos\HelloWorld\AgendaContatos.Gabriel\obj\Debug\AgendaContatos.Gabriel.pdb
